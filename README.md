@@ -60,7 +60,7 @@ A inteligência artificial foi utilizada como ferramenta de apoio durante o dese
 
 ## Deploy
 
-Link da Vercel: **adicionar após a publicação**
+Link da Vercel: [**(https://sprint4-frontend-webdev-main.vercel.app/)**]
 
 ## Repositório
 
