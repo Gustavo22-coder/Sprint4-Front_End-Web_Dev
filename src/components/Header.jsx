@@ -25,6 +25,7 @@ export function Header() {
           <Link href="/#publico" className="transition hover:text-sky-400">Público</Link>
           <Link href="/#galeria" className="transition hover:text-sky-400">Galeria</Link>
           <Link href="/#equipe" className="transition hover:text-sky-400">Equipe</Link>
+          <Link href="/#contato" className="transition hover:text-sky-400">Contato</Link>
 
           {authenticated ? (
             <>
